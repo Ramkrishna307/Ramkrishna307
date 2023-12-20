@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ramkrishna-roy-0b26281bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ramkrishna-roy-0b26281bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramkrishna-roy-0b26281bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkrishna-roy-0b26281bb" height="30" width="40" /></a>
 <a href="https://instagram.com/apathisch_geist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apathisch_geist" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ramkrishnaroy324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramkrishnaroy324" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/123sandip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123sandip" height="30" width="40" /></a>

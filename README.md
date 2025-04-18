@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna307&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna307" /> </p>
 
-- 🔭 I’m currently working on **Chat-Application Using MERN**
+- 🔭 I’m currently working on **Banking application(Using Microservices)**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Kafka**
 
-- 👯 I’m looking to collaborate on **MERN Project**
+- 👯 I’m looking to collaborate on **Spring Boot Project**
 
 - 🤝 I’m looking for help with **Spring boot project**
 
